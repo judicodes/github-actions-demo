@@ -1,0 +1,23 @@
+{
+  "name": "github-actions-demo",
+  "version": "1.0.0",
+  "description": "A minimal project to demonstrate the use of GitHub Actions.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judicodes/github-actions-demo.git"
+  },
+  "author": "judicodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/judicodes/github-actions-demo/issues"
+  },
+  "homepage": "https://github.com/judicodes/github-actions-demo#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
